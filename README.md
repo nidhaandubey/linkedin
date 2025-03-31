@@ -25,3 +25,11 @@ This project is a LinkedIn profile scraper that extracts structured career infor
 **Time Taken**
 
 The average time to scrape one profile is approximately 25–30 seconds.
+
+**Bonus Points added:**
+● Parsing dynamic job sections (like “See more”) 
+● Computing: 
+    ○ Current role duration 
+    ○ Total career experience 
+● Detecting if "Open to Work" is enabled on the profile 
+● Error handling and logs 
